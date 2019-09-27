@@ -1,4 +1,4 @@
-# Solutions for Tuenti Challenge 8 (2018) by Alejandro Pinel Martínez
+# Tuenti Challenge 8 by Alejandro Pinel Martínez
 
 These are my solutions to some of the challenges for the Tuenti Challenge of 2018.
 
